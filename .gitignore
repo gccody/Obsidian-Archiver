@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build output (optional - you may want to include main.js for releases)
+# main.js
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
