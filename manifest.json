@@ -1,11 +1,11 @@
 {
-  "id": "obsidian-archiver",
-  "name": "Archiver",
-  "version": "1.0.0",
-  "minAppVersion": "0.15.0",
-  "description": "Archive files and folders with customizable folder structure options",
-  "author": "Gccody",
-  "authorUrl": "https://gccody.com",
-  "fundingUrl": "https://buymeacoffee.com/gccody",
-  "isDesktopOnly": false
+	"id": "obsidian-archiver",
+	"name": "Archiver",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Archive files and folders with customizable folder structure options",
+	"author": "Gccody",
+	"authorUrl": "https://gccody.com",
+	"fundingUrl": "https://buymeacoffee.com/gccody",
+	"isDesktopOnly": false
 }
